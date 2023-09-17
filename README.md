@@ -1,2 +1,1 @@
-# black_jack
-This is a piece of code for the card game 'black jack'
+<h1>This is a piece of could that would calculate user budget.</h1>
